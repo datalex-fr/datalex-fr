@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @datalex-fr
 - 👀 I’m interested in datascience
-- 🌱 I’m currently learning EDA/ML and statistics
+- 🌱 I learned EDA/ML and statistics
+- I'm currently Data Analyst
 
 <!---
 datalex-fr/datalex-fr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
