@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datalex-fr
 - 👀 I’m interested in datascience
-- 🌱 I learned EDA/ML and statistics
+- 🌱 I learned EDA/ML and statistics with OpenClassrooms
 - 👀 I'm currently Data Analyst
 
 <!---
